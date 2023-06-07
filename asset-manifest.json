@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/loginform/static/css/main.44a00f84.css",
+    "main.js": "/loginform/static/js/main.f197027e.js",
+    "static/js/787.fc147d8f.chunk.js": "/loginform/static/js/787.fc147d8f.chunk.js",
+    "index.html": "/loginform/index.html",
+    "main.44a00f84.css.map": "/loginform/static/css/main.44a00f84.css.map",
+    "main.f197027e.js.map": "/loginform/static/js/main.f197027e.js.map",
+    "787.fc147d8f.chunk.js.map": "/loginform/static/js/787.fc147d8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44a00f84.css",
+    "static/js/main.f197027e.js"
+  ]
+}
